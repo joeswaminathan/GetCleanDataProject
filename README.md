@@ -12,12 +12,12 @@
    The data collected is divided into two sets one to be used for training and other for test
    For each sample subject these measurments were taken while they were
        doing the following activities
-        1. WALKING
-	2. WALKING_UPSTAIRS
-	3. WALKING_DOWNSTAIRS
-	4. SITTING
-	5. STANDING
-	6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
    Hence there are six rows per sample.
 
    The data is recorded in file with six rows per sample subjects
